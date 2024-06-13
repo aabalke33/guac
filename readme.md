@@ -1,4 +1,4 @@
-# Guac: An Image Editing App
+# 🥑 Guac: An Image Editing App 
 
 
 Goals:
